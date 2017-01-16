@@ -1,0 +1,26 @@
+{
+  "name": "es6-learning",
+  "version": "1.0.0",
+  "description": "This repo contains es6 and some es7 resources with the goal of learn the specification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianomoretti/es6-learning.git"
+  },
+  "keywords": [
+    "es6",
+    "learning"
+  ],
+  "author": "Mariano Moretti",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/marianomoretti/es6-learning/issues"
+  },
+  "homepage": "https://github.com/marianomoretti/es6-learning#readme",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  }
+}
